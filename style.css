@@ -1,0 +1,46 @@
+header{
+  background:#3b5998;
+  box-shadow: 0px 2px lightgray;
+}
+
+body {
+  background-color:Gainsboro;
+  text-align:center;
+  margin:auto;
+}
+
+h2{
+  color:white;
+  margin-top:-0.3em;
+  padding:1em 0 1em 0;
+  font-size:2em;
+  font-family: tahoma, verdana, arial, sans-serif;
+  text-shadow: 0px 2px #2f4779;
+}
+
+div{
+  font-size:1em;
+  background:white;
+  padding:1em;
+  margin:-0.8em 0.8em 1em 0.8em;
+  border-radius: 5px;
+  box-shadow: 0px 2px lightgray;
+}
+
+button{
+  background-color: #3b5998;
+  margin:1em;
+  border-radius: 2px;
+  border:none;
+  color:white;
+  padding: 10px 24px;
+  box-shadow: 0px 2px 2px lightgrey;
+  font-size: 16px;
+  
+}
+button:hover {
+  background-color: #2f4779;
+  color: white;
+}
+button:active {
+  transform: translateY(2px);}
